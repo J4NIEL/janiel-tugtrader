@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "changelog": [
+        "Initial release",
+        "Announcement system with RGB effects",
+        "Position saving system",
+        "Framework auto-detection (ESX/QBCore)",
+        "Custom notification sounds"
+    ],
+    "download": "https://keymaster.fivem.net/login?return_url=/"
+} 
